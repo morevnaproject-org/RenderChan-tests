@@ -1,0 +1,3 @@
+Test of rendering PNG sequence file (using Synfig).
+
+renderchan file.sifz
